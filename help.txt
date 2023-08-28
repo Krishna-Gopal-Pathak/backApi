@@ -1,0 +1,19 @@
+create folder
+cd <create folder>
+code -a .
+npm init
+npm i express
+npm i cors
+
+Add engines in package.json
+"engines":{
+    "node": "<node-version>"
+}
+
+
+
+After complete all files and code
+lastly we do
+
+heroku -v
+git init
